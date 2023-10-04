@@ -31,8 +31,8 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
 
 ## All pools in BPMN
 - Customer
-- Admin
 - Wabsite
+- Admin
 - Delivery
 
 ## Customer pool
