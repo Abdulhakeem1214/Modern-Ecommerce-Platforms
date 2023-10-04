@@ -14,7 +14,16 @@
 
  ## 3.Visual Overview
  ### HomePage
-
+![Digram img](img/1.png)
+![Digram img](img/2.png)
+### Shop page
+![Digram img](img/3.png)
+### Checkout
+![Digram img](img/4.png)
+![Digram img](img/5.png)
+![Digram img](img/6.png)
+### Statement
+![Digram img](img/7.png)
 
 ## All pools in BPMN
 - Customer
@@ -23,6 +32,7 @@
 - Delivery
 
 ## BPMN Diagram
+
 
 
 - Add to Cart: The selected products are added to the customer's shopping cart.
