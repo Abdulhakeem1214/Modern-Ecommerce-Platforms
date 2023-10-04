@@ -12,5 +12,33 @@
 - PDF Invoices & Packing Slips for WooCommerce: is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
 - PeproDev WooCommerce Receipt Uploader: is For Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually.
 
-- ## HomePage
-- 
+ ## HomePage
+
+
+## All pools in BPMN
+- Customer
+- Admin
+- Wabsite
+- Delivery
+
+## BPMN Diagram
+
+
+- Add to Cart: The selected products are added to the customer's shopping cart.
+
+
+-Check Out Process: The process to Checkout the product.
+Fill the shipping detail: The customer fill their shipping detail.
+
+
+- Identify payment method: Payment information, such as Prompay details, is entered.
+
+
+## Uplord order
+
+
+## Order
+
+
+## Conclution
+The development of an e-commerce website for  second hand  shop using WordPress and WooCommerce, supported by Laragon and essential plugins, is an exciting project with the potential to provide customers with a seamless second-hand shopping experience. By leveraging BPMN diagrams, we have visualized key processes to ensure the efficient operation of the website. This project aims to create a user-friendly and secure platform that caters to both customers and administrators, ultimately leading to a successful online second-hand shop.
