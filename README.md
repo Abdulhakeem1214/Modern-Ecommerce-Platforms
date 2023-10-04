@@ -32,6 +32,8 @@
 - Delivery
 
 ## BPMN Diagram
+![Digram img](img/8.png)
+
 
 
 
