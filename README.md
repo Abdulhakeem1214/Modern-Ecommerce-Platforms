@@ -41,15 +41,16 @@ This BPMN diagram show my E-Commerce Website processes, showcasing key interacti
 
 ## Website
 ![Digram img](img/12.png)
+- Start form the first that is product information is that can make customer choes it.
+- Second is taking customer order before the data go to backend.
+- Third is taking slip from customer who choes transfer before the data go to backend.
+
+## Admin
+![Digram img](img/11.png)
 - Correct gataway: when admin check correctness about payment. If correct, It will go to Check Stock process. If not correct, It will cancel the order.
 - The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
 - Next, the order will be sent to the shipping company.
 
-## Admin
-![Digram img](img/11.png)
-- Start form the first that is product information is that can make customer choes it.
-- Second is taking customer order before the data go to backend.
-- Third is taking slip from customer who choes transfer before the data go to backend.
 
 ## Delivery
 ![Digram img](img/13.png)
