@@ -24,15 +24,16 @@
 ### Statement
 ![Digram img](img/7.png)
 
+
+## BPMN Diagram
+![Digram img](img/8.png)
+This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Hiyab shop experience.
+
 ## All pools in BPMN
 - Customer
 - Admin
 - Wabsite
 - Delivery
-
-## BPMN Diagram
-![Digram img](img/8.png)
-This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Hiyab shop experience.
 
 ## Customer pool
 ![Digram img](img/9.png)
