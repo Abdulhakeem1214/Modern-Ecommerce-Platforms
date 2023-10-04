@@ -33,26 +33,12 @@
 
 ## BPMN Diagram
 ![Digram img](img/8.png)
+This BPMN diagram show my E-Commerce Website processes, showcasing key interactions and workflows that enhance the platform's user-friendly online Hiyab shop experience.
 
-
-
-
-
-- Add to Cart: The selected products are added to the customer's shopping cart.
-
-
--Check Out Process: The process to Checkout the product.
-Fill the shipping detail: The customer fill their shipping detail.
-
-
-- Identify payment method: Payment information, such as Prompay details, is entered.
-
-
-## Uplord order
-
-
-## Order
-
+## Customer pool
+![Digram img](img/9.png)
+- Start with the green dot. It marks the beginning of the customer journey on the platform.
+- Select Products: The customer selects the desired products from the available options.
 
 ## Conclution
 The development of an e-commerce website for  second hand  shop using WordPress and WooCommerce, supported by Laragon and essential plugins, is an exciting project with the potential to provide customers with a seamless second-hand shopping experience. By leveraging BPMN diagrams, we have visualized key processes to ensure the efficient operation of the website. This project aims to create a user-friendly and secure platform that caters to both customers and administrators, ultimately leading to a successful online second-hand shop.
