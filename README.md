@@ -10,7 +10,6 @@
 - WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
 - WooCommerce: is integrated seamlessly with WordPress, empowering our website with e-commerce capabilities, including product management, shopping cart functionality, and secure payment processing.
 - PDF Invoices & Packing Slips for WooCommerce: is responsible for generating professional invoices and packing slips for customer orders, ensuring a smooth and professional shopping experience.
-- PeproDev WooCommerce Receipt Uploader: is For Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually Upload Receipt for Any Payment method in WooCommerce. Customers will Upload the receipt (image/pdf) and Shop Managers will approve/reject it manually.
 
  ## 3.Visual Overview
  ### HomePage
